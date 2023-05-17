@@ -4,8 +4,8 @@ I am Mengyang.
 
 - 2nd year M.S. student at [SEU](https://www.seu.edu.cn/english/)
 - I do mobile (edge) intelligence research
-- I am building an interesting ML system
-- I am TVM enthusiast
+- Now building an interesting ML system
+- TVM enthusiast
 
 ### Stats
 
