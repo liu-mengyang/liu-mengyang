@@ -1,7 +1,12 @@
-## Hi~
+### Hi 👋
 
-![profile](https://images.liumengyang.xyz/profile20221010.png)
+I am Mengyang.
 
-## Stats
+- 2nd year M.S. student at [SEU](https://www.seu.edu.cn/english/)
+- I do mobile (edge) intelligence research
+- I am building an interesting ML system
+- I am TVM enthusiast
+
+### Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liu-mengyang&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
