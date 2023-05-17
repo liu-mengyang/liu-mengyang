@@ -6,6 +6,9 @@ I am Mengyang.
 - I do mobile (edge) intelligence research
 - Now building an interesting ML system
 - TVM enthusiast
+- Mail to me: myliu@seu.edu.cn
+
+---
 
 ### Stats
 
