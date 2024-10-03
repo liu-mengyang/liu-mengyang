@@ -2,10 +2,10 @@
 
 I am Mengyang.
 
-- Last year M.S. student at [SEU](https://www.seu.edu.cn/english/)
-- I do mobile (edge) intelligence research
+- I will be a research assistant at [HKUST](https://hkust.edu.hk/)
+- I do mobile (edge) intelligence and LLM distributed inference research
 - Now building an interesting ML system
 - TVM enthusiast
-- Mail to me: myliu@seu.edu.cn
+- Mail to me: ethan.my.liu@gmail.com
 
 ---
