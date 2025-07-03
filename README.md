@@ -2,9 +2,8 @@
 
 I am Mengyang.
 
-- I am a research assistant at [HKUST](https://hkust.edu.hk/) working with [Prof. Wang](https://www.cse.ust.hk/~weiwa/)
 - I am focusing on distributed LLM serving system research
 - I am building a DL model architecture compiler for diverse (edge/cloud) devices, models, and services
-- Mail to me: csemyliu@ust.hk
+- Mail to me: ethan.my.liu@gmail.com
 
 ---
